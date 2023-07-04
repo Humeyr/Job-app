@@ -1,0 +1,103 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Current Position",
+      "type": "Full-time",
+      "date": "10/1/2023"
+    },
+    {
+      "id": 2,
+      "position": "Backend Developer",
+      "company": "Kodlama.io",
+      "location": "İstanbul/Üsküdar",
+      "status": "Interview",
+      "type": "Full-time",
+      "date": "3/29/2023"
+    },
+    {
+      "id": 3,
+      "position": "UI/UX Designer",
+      "company": "Figma",
+      "location": "New York",
+      "status": "Current Position",
+      "type": "Remote",
+      "date": "10/3/2023"
+    },
+    {
+      "id": 4,
+      "position": "Software Engineer",
+      "company": "Google",
+      "location": "New York",
+      "status": "Rejected",
+      "type": "Full-time",
+      "date": "10/2/2020"
+    },
+    {
+      "id": 5,
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Interview",
+      "type": "Part-time",
+      "date": "3/10/2024"
+    },
+    {
+      "id": 6,
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Current Position",
+      "type": "Full-time",
+      "date": "3/1/2024"
+    },
+    {
+      "id": 7,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Current Position",
+      "type": "Full-time",
+      "date": "1/17/2021"
+    },
+    {
+      "id": 8,
+      "position": "Marketing Manager",
+      "company": "Coca Cola",
+      "location": "İstanbul/Levent",
+      "status": "Interview",
+      "type": "Full-time",
+      "date": "9/12/2020"
+    },
+    {
+      "id": 9,
+      "position": "Software Tester",
+      "company": "IBM",
+      "location": "Ankara/Çankaya",
+      "status": "Current Position",
+      "type": "Part-time",
+      "date": "3/28/2023"
+    },
+    {
+      "id": 10,
+      "position": "Data Analyst",
+      "company": "Facebook",
+      "location": "Menlo Park",
+      "status": "Rejected",
+      "type": "Remote",
+      "date": "3/28/2023"
+    },
+    {
+      "id": 1688463669695,
+      "position": "frontend developer",
+      "company": "udemig",
+      "location": "stockholm",
+      "status": "Interview",
+      "type": "Full-time",
+      "date": "04/07/2023"
+    }
+  ]
+}
